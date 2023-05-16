@@ -4,7 +4,9 @@
  ![image](https://github.com/AhmTD/Clone_Ball_Shoot/assets/104300902/bf551057-3c7a-428b-b1ae-f34fcfaf3935)
  ![image](https://github.com/AhmTD/Clone_Ball_Shoot/assets/104300902/053237bb-0bd1-49d9-98ea-76547aa40d9d)
 
-
+-Gitten ulaştığınız kodlarda level tasarımları bulunmamaktadır.
+ Levelleri oluşturcak tüm kodlar mevcudur(effectler dışında) 
+-Ara ve başlangıç menüleri diğer çalışmalrımda olduğundan bu çalışmamda atmadım.
  
  
  
